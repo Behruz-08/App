@@ -1,0 +1,9 @@
+.root {
+  height: 70px;
+  font-size: 60px;
+  color: rgb(241, 238, 233);
+  background: #009999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

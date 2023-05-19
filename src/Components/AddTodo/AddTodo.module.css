@@ -1,0 +1,9 @@
+.addTodoForm {
+  height: 90px;
+  display: flex;
+  flex: 1;
+  padding: 15px;
+  scroll-snap-align: 1;
+
+  background-color: rgb(214, 237, 237);
+}
